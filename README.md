@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="600" height="150"/>
 
 ###
